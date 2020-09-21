@@ -6,7 +6,7 @@ In this project we had to operationalize a Machine Learning Microservice API whi
 
 
 ## Setup the Environment
-* Run `git clone https://github.com/adamsteff/udacity-asteff-ml-microservice-kubernetes.git`
+* Run `git clone https://github.com/efuller13/devop.git.git`
 * Run `cd project-ml-microservice-kubernetes`
 * Run `python3 -m venv ~/.devops`
 * Run `source ~/.devops/bin/activate`
